@@ -125,6 +125,8 @@
 				<img class="viewer" src="/images/room-4.jpg" onclick="ImageView(this)" alt="Room picture 4" title="Room picture 4" />
 				<img class="viewer" src="/images/room-5.jpg" onclick="ImageView(this)" alt="Room picture 5" title="Room picture 5" />
 				<img class="viewer" src="/images/room-6.jpg" onclick="ImageView(this)" alt="Room picture 6" title="Room picture 6" />
+                <img class="viewer" src="/images/room-7.jpg" onclick="ImageView(this)" alt="Room picture 7" title="Room picture 7" />
+                <img class="viewer" src="/images/room-8.jpg" onclick="ImageView(this)" alt="Room picture 8" title="Room picture 8" />
 			</div>
 			
 <!--			<div id="social-sharing">
