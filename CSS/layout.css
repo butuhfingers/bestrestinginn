@@ -21,7 +21,7 @@ p{display:inline-block; font-size:17px;}
 	#image-viewer-image
 	{
 		position:absolute;
-		width: auto;
+		width: 90%;
 		margin:0 auto;
 		z-index:6;
 	}
