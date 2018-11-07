@@ -21,10 +21,13 @@ p{display:inline-block; font-size:17px;}
 	#image-viewer-image
 	{
 		position:absolute;
-		width: 90%;
 		margin:0 auto;
 		z-index:6;
 	}
+        #image-viewer-image img{
+            max-width:80%;
+            max-height:80%;
+        }
 	#image-close
 	{
 		display:block;
