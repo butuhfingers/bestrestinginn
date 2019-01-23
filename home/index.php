@@ -106,8 +106,8 @@
 					<br><br>
 					
 					<u><b>Hours:</b></u><br>
-					Mon - Fri: 8AM - 7PM<br>
-					Sat - Sun: 9AM - 7PM<br>
+					Mon - Fri: 8AM - 8PM<br>
+					Sat - Sun: 8AM - 8PM<br>
 					Operator available 24/7
 					
 					<br><br>
